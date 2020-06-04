@@ -1,0 +1,25 @@
+{
+  "name": "nanum-fontface",
+  "version": "1.0.0",
+  "description": "A simple package providing the Nanum fontface.",
+  "main": "css/nanum-gothic.css",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/sokcuri/nanum-fontface.git"
+  },
+  "keywords": [
+      "nanum-gothic",
+      "nanum-gothic-coding",
+      "nanum-myeongjo",
+      "nanum-pen-script",
+      "nanum-brush-script",
+      "font",
+      "fontface"
+  ],
+  "author": "sokcuri",
+  "license": "SIL OPEN FONT LICENSE",
+  "bugs": {
+      "url": "https://github.com/sokcuri/nanum-fontface/issues"
+  },
+  "homepage": "https://github.com/sokcuri/nanum-fontface"
+}
